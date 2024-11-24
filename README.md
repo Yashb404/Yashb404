@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 - Redux
 - Spring Boot
 - Vite
+
+<a href="https://www.arduino.cc/">
+  <img src="https://www.svgrepo.com/show/305741/arduino.svg" alt="Arduino" width="100">
+</a>
