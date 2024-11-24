@@ -21,3 +21,25 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Expense Tracker Project
 - 🌱 I’m currently learning React and SpringBoot
 
+## Languages and Tools
+- Arduino
+- C
+- CSS
+- Express
+- Git
+- HTML
+- Java
+- JavaScript
+- Maven
+- MongoDB
+- MySQL
+- Node.js
+- Oracle
+- PostgreSQL
+- Postman
+- Python
+- Pygame
+- React
+- Redux
+- Spring Boot
+- Vite
