@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Expense Tracker Project
 - 🌱 I’m currently learning React and SpringBoot
-- 💬 Ask me about JS,CyberSecurity 
-- 
+
