@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Yashaswi Bhardwaj<br><br>A developer from India currently pursuing Btech in MUJ<br><br>🔭 I’m currently working on a Expense Tracker Project<br>🌱 I’m currently learning React, SpringBoot and typescript
+I am Yashaswi Bhardwaj<br><br>A developer from India currently pursuing Btech in MUJ<br><br>🔭 I’m currently working on a Expense Tracker Project<br>🌱 I’m currently learning React, SpringBoot and Typescript
 
 
 
