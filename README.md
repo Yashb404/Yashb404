@@ -1,7 +1,6 @@
 # 💫 About Me:
-I am Yashaswi Bhardwaj<br><br>A developer from India currently pursuing Btech in MUJ<br><br>
-
-
+I am Yash 
+Learning Web3 development right now 
 
 
 
