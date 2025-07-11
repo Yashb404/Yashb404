@@ -47,12 +47,10 @@ Learning Web3 development right now
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-
   <!-- 🔹 Added tools below with verified sources -->
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/></a>  
-  <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Solana_logo.svg" alt="solana" width="40" height="40"/></a>  
-  <a href="https://rocket.rs/" target="_blank" rel="noreferrer"><img src="https://rocket.rs/images/rocket-logo.svg" alt="rocket" width="40" height="40"/></a>  
-  <a href="https://anchor-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/coral-xyz/anchor/HEAD/logo.svg" alt="anchor" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust](http://svgrepo.com/svg/376347/rust)" width="40" height="40"/></a>  
+  <a href="https://rocket.rs/" target="_blank" rel="noreferrer"><img src="[https://rocket.rs/images/rocket-logo.svg" alt="rocket" width="40" height="40](https://www.svgrepo.com/svg/513373/rocket)"/></a>  
+  <a href="https://anchor-lang.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/coral-xyz/anchor/HEAD/logo.svg](https://www.svgrepo.com/svg/521451/anchor)" alt="anchor" width="40" height="40"/></a>
 </p>
 
 ---
