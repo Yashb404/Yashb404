@@ -1,92 +1,106 @@
-
-
-<h1 align="center">Hi, I'm Yash </h1>
-
 <p align="center">
-  <a href="https://github.com/{username}"><img src="https://komarev.com/ghpvc/?username={username}&label=Profile%20views&style=flat" alt="profile views counter"/></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="330"/>
 </p>
 
-<p align="center">
-  <b>Learning Web3 development</b> • <b>Exploring Rust, Solana & Anchor</b> • <b>Building real‑time web apps with Rocket (Rust)</b><br/>
-  Hackathon enthusiast — I like building on‑chain + systems‑level tools.
-</p>
+<h1 align="left" id="yash-title">👋 Hi, I’m Yash!</h1>
+<h3 align="left">
+  Web3 Learner • Rust & Solana Dev • Web App Builder
+</h3>
 
----
-
-## 🌐 Connect with me
-<p>
-  <a href="https://twitter.com/yashbha20562293" target="_blank">
-    <img alt="X (Twitter)" height="32" src="https://cdn.simpleicons.org/x/000000" />
+<p align="left">
+  <a href="https://github.com/YashB404">
+    <img src="https://komarev.com/ghpvc/?username=YashB404&label=Profile%20views&style=flat" alt="profile views"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yashaswi-bhardwaj-2936b8283/" target="_blank">
-    <img alt="LinkedIn" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  <a href="https://twitter.com/yashbha20562293">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/yashbha20562293?label=Twitter&logo=twitter&style=flat">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/yash-404" target="_blank">
-    <img alt="LeetCode" height="32" src="https://cdn.simpleicons.org/leetcode/FFA116" />
+  <a href="https://leetcode.com/u/yash-404">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yashaswi-bhardwaj-2936b8283/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
 
+<a href="#yash-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashB404&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Yash's GitHub Stats" align="right" height="180"/>
+</a>
+
+- 🌱 I’m currently learning **Rust, Solana & Anchor** for smart contract development.
+- 🏆 Hackathon enthusiast — I like building on‑chain + systems‑level tools.
+- 📫 Chat with me on <a href="https://twitter.com/yashbha20562293">Twitter</a>.
+<br>
+
+## 🛠️ Favorite Tech
+
+> Tools, languages, and frameworks I enjoy working with:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="48" height="48" alt="Rust" /><br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/user-attachments/assets/57b129b9-4790-4075-bf1f-ebb514885f43" width="48" height="48" alt="Solana" /><br>Solana
+    </td>
+    <td align="center" width="96">
+      <img src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="48" height="48" alt="Anchor" /><br>Anchor
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" /><br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ Languages & Tools
+##  Featured Projects
 
-<!-- Using reliable, maintained icon CDNs (simpleicons/devicon/vectorlogo), plus official sources for some project logos. -->
-<p>
-  <!-- Core -->
-  <img alt="Rust" title="Rust" height="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"/>
-  <img alt="Solana" title="Solana" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Solana_cryptocurrency.svg"/>
-  <img alt="Anchor (Solana)" title="Anchor (Solana)" height="40" src="https://raw.githubusercontent.com/coral-xyz/anchor/HEAD/logo.svg"/>
-  <img alt="Rocket (Rust)" title="Rocket (Rust)" height="40" src="https://rocket.rs/images/rocket-logo.svg"/>
-  <!-- Web -->
-  <img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-  <img alt="Node.js" title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Next.js" title="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <!-- Databases -->
-  <img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MongoDB" title="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="MySQL" title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <!-- Misc -->
-  <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Linux" title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img alt="Bash" title="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="C" title="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</p>
+-  **[Decentralized Music Player](https://github.com/Yashb404/SolanaMusicPlayer)**  
+  Solana + Anchor (Rust), React/TypeScript, Tailwind CSS  
+  Built under Ackee Blockchain Security School of Solana; used PDAs for secure state & tested Rust-based programs; integrated Solana Web3.js for client interactions.
 
----
+-  **[BoliBazaar – Reverse‑Auction Platform](https://github.com/Rakshat28/DudeTute)**  
+  Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Tailwind, Vercel  
+  Role-based onboarding (3 user roles) with Next.js middleware; vendor geo-location via Leaflet; secure vendor dashboard with transactional APIs & JWT auth.
 
-## 💫 About Me
-- 🔭 Currently exploring <b>Rust, Solana & Anchor</b> for smart contract development.
-- ⚙️ Building <b>real‑time web apps with Rocket (Rust)</b>.
-- 🏗️ Hackathons + on‑chain & systems tools.
+- **[YouTube Clone – Backend API](https://github.com/YashB404/Youtube-clone-Backend-project)**  
+  Node.js, Express, MongoDB, JWT, Cloudinary  
+  RESTful backend with 15+ endpoints, modular architecture, robust validation and error handling.
 
----
-
-## 🚀 Featured Projects
-
-### 🎵 Decentralized Music Player (Solana + Anchor)
-<a href="https://github.com/Yashb404/SolanaMusicPlayer">Repo</a> • Solana + Anchor (Rust), React/TypeScript, Tailwind CSS  
-Built under Ackee Blockchain Security School of Solana; used PDAs for secure state & tested Rust-based programs; integrated Solana Web3.js for client interactions.
-
-### 🛒 BoliBazaar – Reverse‑Auction Platform
-<a href="https://github.com/Rakshat28/DudeTute">Repo</a> • Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Tailwind, Vercel  
-Role-based onboarding (3 user roles) with Next.js middleware; vendor geo-location via Leaflet; secure vendor dashboard with transactional APIs & JWT auth.
-
-### ▶️ YouTube Clone – Backend API
-<a href="https://github.com/YashB404/Youtube-clone-Backend-project">Repo</a> • Node.js, Express, MongoDB, JWT, Cloudinary  
-RESTful backend with 15+ endpoints (auth, uploads, playlists), Cloudinary integration, modular architecture with robust validation and error handling.
-
-<!--
-TODO: Add more pinned projects as you ship them.
--->
+<br>
 
 ---
 
@@ -94,10 +108,15 @@ TODO: Add more pinned projects as you ship them.
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashB404&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages" />
 
   <br/>
-  <img height="190" src="https://streak-stats.demolab.com?user={username}&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="190" src="https://streak-stats.demolab.com?user=YashB404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+---
+
+## 🧩 Credits
+
+* Cards powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) & [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
