@@ -11,7 +11,7 @@
   <a href="https://github.com/YashB404">
     <img src="https://komarev.com/ghpvc/?username=YashB404&label=Profile%20views&style=flat" alt="profile views"/>
   </a>
-  <a href="https://twitter.com/yashbha20562293">
+  <a href="https://twitter.com/yashB404">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/yashbha20562293?label=Twitter&logo=twitter&style=flat">
   </a>
   <a href="https://leetcode.com/u/yash-404">
@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Rust, Solana & Anchor** for smart contract development.
 - 🏆 Hackathon enthusiast — I like building on‑chain + systems‑level tools.
-- 📫 Chat with me on <a href="https://twitter.com/yashbha20562293">Twitter</a>.
+- 📫 Chat with me on <a href="https://twitter.com/yashB404">Twitter</a>.
 <br>
 
 ## 🛠️ Favorite Tech
