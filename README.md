@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YashB404&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Yash's GitHub Stats" align="right" height="180"/>
 </a>
 
-- 🌱 I’m currently learning **Rust, Solana & Anchor** for smart contract development.
+- 🌱 I’m currently learning **Rust, Solana , Anchor and Solidity**.
 - 🏆 Hackathon enthusiast — I like building on‑chain + systems‑level tools.
 - 📫 Chat with me on <a href="https://twitter.com/yashB404">Twitter</a>.
 <br>
