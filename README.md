@@ -4,7 +4,7 @@
 
 <h1 align="left" id="yash-title">👋 Hi, I’m Yash!</h1>
 <h3 align="left">
-  Web3 Learner • Rust & Solana Dev • Web App Builder
+  Backend Dev • Rust & Solana • Web App Builder
 </h3>
 
 <p align="left">
