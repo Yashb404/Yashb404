@@ -92,9 +92,8 @@
   Solana + Anchor (Rust), React/TypeScript, Tailwind CSS  
   Built under Ackee Blockchain Security School of Solana; used PDAs for secure state & tested Rust-based programs; integrated Solana Web3.js for client interactions.
 
--  **[BoliBazaar – Reverse‑Auction Platform](https://github.com/Rakshat28/DudeTute)**  
-  Next.js, TypeScript, PostgreSQL, Prisma, Clerk, Tailwind, Vercel  
-  Role-based onboarding (3 user roles) with Next.js middleware; vendor geo-location via Leaflet; secure vendor dashboard with transactional APIs & JWT auth.
+-  **[Bin-expire](https://github.com/Yashb404/bin-expire)**  
+  Bin-expire is a CLI tool that helps you find stale binaries in common bin folders and safely archive/restore them.
 
 - **[YouTube Clone – Backend API](https://github.com/YashB404/Youtube-clone-Backend-project)**  
   Node.js, Express, MongoDB, JWT, Cloudinary  
