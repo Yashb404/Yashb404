@@ -28,6 +28,7 @@
 
 
 -  I’m currently learning **Rust, Solana , Anchor and Solidity**.
+-  Currently in Turbin3 Structured Pre-Builders 
 - I like building on‑chain + systems‑level tools.
 -  Chat with me on <a href="https://twitter.com/yashB404">Twitter</a>.
 <br>
