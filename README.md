@@ -91,13 +91,13 @@
 ##  Featured Projects
 
 - **[TryCli Studio](https://github.com/TryCli-Studio/trycli)** Rust, Docker, Kata Containers, AWS, WebSockets  
-  Proprietary cloud orchestration engine that dynamically provisions hardware-isolated Linux sandboxes in the browser. Features strict OS-level resource caps (512MB RAM, 0.5 CPU) and an automated Reaper service; accepted into the iEmbedly network for distribution across 8,000+ sites.
+  Cloud orchestration engine that dynamically provisions hardware-isolated Linux sandboxes in the browser. Features strict OS-level resource caps (512MB RAM, 0.5 CPU) and an automated Reaper service; accepted into the iEmbedly network for distribution across 8,000+ sites.
 
 - **[Annotex](https://github.com/Yashb404/annotex)** Node.js, PostgreSQL, Prisma, REST APIs, Jest  
-   data validation platform that securely ingests datasets and automates payouts via state-driven REST APIs. Architected a highly normalizedw database schema to enforce data integrity and track complex task lifecycles across 3 distinct role-based workspaces.
+   Data labelling platform that securely ingests datasets and automates payouts via state-driven REST APIs. Architected a highly normalizedw database schema to enforce data integrity and track complex task lifecycles across 3 distinct role-based workspaces.
 
 - **[SimuCLI](https://github.com/Yashb404/simucli)** Rust, WebAssembly, System Simulation  
-  Proprietary interactive command-line simulation platform engineered entirely in pure Rust. Natively mimics low-level terminal interactions, parsing logic, and file system navigation directly within the browser without relying on actual underlying system commands.
+  Interactive command-line simulation platform engineered entirely in pure Rust. Natively mimics low-level terminal interactions, parsing logic, and file system navigation directly within the browser without relying on actual underlying system commands.
 <br>
 
 
