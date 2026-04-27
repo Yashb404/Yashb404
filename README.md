@@ -90,17 +90,14 @@
 
 ##  Featured Projects
 
--  **[Decentralized Music Player](https://github.com/Yashb404/SolanaMusicPlayer)**  
-  Solana + Anchor (Rust), React/TypeScript, Tailwind CSS  
-  Built under Ackee Blockchain Security School of Solana; used PDAs for secure state & tested Rust-based programs; integrated Solana Web3.js for client interactions.
+- **[TryCli Studio](https://github.com/TryCli-Studio/trycli)** Rust, Docker, Kata Containers, AWS, WebSockets  
+  Proprietary cloud orchestration engine that dynamically provisions hardware-isolated Linux sandboxes in the browser. Features strict OS-level resource caps (512MB RAM, 0.5 CPU) and an automated Reaper service; accepted into the iEmbedly network for distribution across 8,000+ sites.
 
--  **[Bin-expire](https://github.com/Yashb404/bin-expire)**  
-  Bin-expire is a CLI tool that helps you find stale binaries in common bin folders and safely archive/restore them.
+- **[Annotex](https://github.com/Yashb404/annotex)** Node.js, PostgreSQL, Prisma, REST APIs, Jest  
+   data validation platform that securely ingests datasets and automates payouts via state-driven REST APIs. Architected a highly normalizedw database schema to enforce data integrity and track complex task lifecycles across 3 distinct role-based workspaces.
 
-- **[YouTube Clone – Backend API](https://github.com/YashB404/Youtube-clone-Backend-project)**  
-  Node.js, Express, MongoDB, JWT, Cloudinary  
-  RESTful backend with 15+ endpoints, modular architecture, robust validation and error handling.
-
+- **[SimuCLI](https://github.com/Yashb404/simucli)** Rust, WebAssembly, System Simulation  
+  Proprietary interactive command-line simulation platform engineered entirely in pure Rust. Natively mimics low-level terminal interactions, parsing logic, and file system navigation directly within the browser without relying on actual underlying system commands.
 <br>
 
 
